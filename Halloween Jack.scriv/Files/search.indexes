@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="26">
+            <Title>Character Sketch</Title>
+            <Text>Character Name
+
+	Role in Story:	
+	Occupation:	
+ 	
+
+Physical Description:	
+
+	Personality:	
+
+	Habits/Mannerisms:	
+ 	
+
+	Background:	
+
+	Internal Conflicts:	
+
+	External Conflicts:	 
+ 	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="29">
+            <Title>Sample Story MS</Title>
+            <Text>Your Name Your address Your phone number Your e-mail address
+SHORT STORY MANUSCRIPT FORMAT by W. Ritter
+800 words
+Short story manuscript format is very similar to novel standard manuscript format. This template is intended to help you easily export or print using the standard format. In fact, this PDF file was generated using Scrivener's Compile feature. It was created in Scrivener using the Short Story project template.
+You should generally use a Courier 12-point font (which will print ten characters per inch). Because Courier is a monospace font (that is, all characters are the same width), it makes it easier for editors to detect spelling errors and also to calculate the approximate space your
+story will take up when published. Times New Roman and Arial are also usually acceptable though.
+Leave wide margins all around the page--at least an inch on all sides.
+Use double-spacing between lines--this gives the editor plenty of room to make corrections and notes.
+These guidelines will mean that you can't fit many words on a page--250 to 300 at the most. This will give your manuscript a higher page count, but it will pay off as it will be a lot easier for the editor to read--and you want to make the editor's job as easy as possible.
+# Print only on one side of the page. Your name, address,
+telephone number and e-mail address should go in the upper left corner of the first page of your manuscript. In the upper right corner, place an approximate word count. You can round up to the nearest hundred words, although in these days of word processors, a word processor-generated word count will probably be fine. The word count is used by the editor to work out how much space your story will take
+Ritter / Story Format / 2
+up. In Scrivener, you can insert a placeholder tag that will be replaced by your word count upon compile by using the Edit > Insert menu.
+The title of your story should go roughly halfway down the first page (the editor can use the empty space above it to make notes). The title should be centred, and it is usually capitalised. Place your by-line two lines beneath the title. This is the name you want to appear in print, which might be a pseudonym or might use your initials instead of your full name.
+The first line of your story should start two lines beneath your by-line, and should be indented five spaces (half an inch) from the left margin.
+# You should place a header in the upper right corner of
+every page of your manuscript except for the first page. The header should comprise the surname that appears in the by-line, a key word from the title of the story, and the current page number. (The header should not go in the left corner, as the editorial staff may clip your manuscript in
+Ritter / Story Format / 3
+that corner.) Text should be left-justified with a "ragged" right
+margin. Some folk will tell you that you should always place two spaces between sentences, but in these days of word processors this rule is not so hard and fast any more. If you are in the habit of typing two spaces between sentences, fine; if not, it is probably not worth worrying about. Recent studies have shown that the number of spaces you type between sentences--one or two--has no discernible impact on how easy a piece of text is to read.
+# If you wish a word or phrase to appear in italics, this
+should be indicated in the manuscript by underlining. In Scrivener, you can use italics while writing and then just use "Convert italics to underlines" in the Transformations pane of the Compile sheet.
+Em-dashes--extended hyphens that set off a phrase such as this--should be indicated using two hyphens. In Scrivener, you can use "Convert em-dashes to double hyphens" upon compile. (All of this is set up for you in
+Ritter / Story Format / 4
+the Short Story project template.) #
+Line breaks in your story should be indicated by placing the "#" character between lines rather than leaving a blank line. This makes it easy for the typesetter to see where line breaks should fall. If you write each scene as a separate text document, you can have these separator characters added automatically upon compilation by using the "Separators" pane of the Compile sheet.
+Finally, you do not need to make any overt indication that your story is over--you do not need to type "The End" or anything of the sort. The ending should be obvious from your story. Follow these instructions, and your short story manuscript should at least appear professional--the content is down to you!
+# Much of the information contained in this document is
+based on a description of short story manuscript format by Matt Carless for the BBC Writers' Room website: http:// www.bbc.co.uk/writersroom
+Ritter / Story Format / 5
+</Text>
+        </Document>
+        <Document ID="24">
+            <Title>Places</Title>
+        </Document>
+        <Document ID="19">
+            <Title>Story</Title>
+        </Document>
+        <Document ID="27">
+            <Title>Setting Sketch</Title>
+            <Text>Name of Setting
+
+	Role in Story:	
+
+	Related Characters:	
+
+	Season:	
+
+	Unique Features:	
+
+	Description:	
+
+	Sights:	
+	Sounds:	
+	Smells:	
+
+	Notes:	</Text>
+        </Document>
+        <Document ID="11">
+            <Title>First Page Header</Title>
+            <Synopsis>Title page to the manuscript.</Synopsis>
+            <Text>Your Name
+Your Address
+
+
+
+Your phone number
+Your e-mail address
+
+
+&lt;$wc100> words
+
+
+
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE>
+
+by &lt;$fullname></Text>
+            <Notes>The text from this document will appear at the top of the first page of the compiled story. Note that “Compile As-Is” is ticked - this ensures that the title page’s formatting doesn’t get changed during the Compile process, even though the formatting of other text documents will be overridden to use a standard 12-point manuscript font.
+
+The &lt;$PROJECTTITLE> and &lt;$fullname> tags get replaced with the information set in Project > Meta-Data Settings… > Project Properties. You can edit those settings or just replace this text altogether. (Other information is taken from Address Book when the project is created.)</Notes>
+        </Document>
+        <Document ID="25">
+            <Title>Template Sheets</Title>
+        </Document>
+        <Document ID="6">
+            <Title>Scene</Title>
+            <Text>who: HJ
+When: one summer
+how: becomes a man by becoming independent of his mother
+why: because
+what: rex and the bayonet
+ 
+ 
+My name is Halloween Jack, and it fits me. Only because I was born on one of those days where the sun and the earth perfectly aligned, and my mother cried out in fear at the dark light when I was born. She was never without a hint of that the rest of the time I knew her.
+ 
+My true Jack O Lantern nature- the wavery light behind the eyes, the wide grin that leaves open space- would be revealed that summer I was 15. The jack O lantern was named for the will o the wisp “foolish fires” that would lead travelers astray as they made their way towards a home light that didn’t really exist.
+ 
+ 
+I had a childhood, lived in her house and began to do civil war reenactments when I was 15, because Lotte Boule, her best friend... felt that I should have other interests besides helping her in and out of her wheelchair. Did I mention she was 400 lbs and ate only twinkies and bourbon. She was afraid of vegetables. You ask- what does all this have to do with Rex and the bayonet? I'm getting there- it all goes together
+ 
+ 
+My mother’s name was Candelora Baker and she became pregnant with me after a late night spent working a forklift at the local printing plant. We live in a very small town, and the people here make do with what they can when they can. There isn't much to do, and my father was one more trucker who rolled through the night dragging eighteen wheels and metal box behind his pinup emblazoned mud flapped ass.
+ 
+Momma never told me his name, and I suspect that she didn't ask for her own reasons. Back then she held herself high above the common herd, having been to a local community college and planning her escape from the confines of the longest mall strip in southern Kentucky.
+ 
+But the nights of too much studying took their toll, and in my mind I could see him, tall and possessing a full set of teeth and perhaps some swagger that men get when they walk into a place knowing that they can walk back out again.
+ 
+He saw a woman sitting on a plastic chair in the corner. Her hair had been tucked up earlier in the evening and her glasses were askew from having nodded off while watching the press do it’s infinite up and down. Her sleepy eyes widened and she stood, displaying a body that had none too many miles on it yet.
+ 
+Words weren’t necessary for what happened next-they made quick, passionate love on a bale of packing peanuts . I came along 9 months later, putting paid to the career in data entry that my mother had wanted so badly.
+ 
+I came downstairs on the summer of my 15th year- the weak morning sunlight ate through the window like bile on the worn carpet. The front room had all the furniture out of it so Mam could move her rascal chair about. It was one of those automated ones that was a second- that meant that she could be going along happily when one wheel would spasm wildly twisting this way and that and making her progress in the world as herky jerky as you might think.
+ 
+ 
+And I knew- something about the way that mam shifted on her bed made it time to go and do the chores for her. They were exact and structured- she must be wiped down in concentric circles, the wheels of her chair oiled, the mind of her cat cleansed and a certain level of general hygiene to be attached to the rest of the house.
+ 
+“Hygiene, Jack, is the sign of a higher being. Dirty people do dirty things. “
+ 
+I would numbly nod, not really understanding but not wishing to appear stupid.
+ 
+Lotte would talk to me about her sometimes, trying to explain in a way my small circled mind would understand.
+ 
+“If you as person knew about how many, many, MANY things happened to the woman who sits in that chair, you would not have that idea in your head about her no sir, you would not. There were so many sad endless nights for her - when you were a baby, she would rock you to sleep , not yet confined to the rolling prison of her own flesh.
+ 
+The house we lived in slanted to one side- it made pushing Mam round a tad more difficult .
+ 
+ 
+ 
+Lotte worked at the Jubitz as the general manager. Mam sometimes did their books, and that was how they became friends. Long nights watching the trucks come in and out of the huge parallel lines talking in desultory voices about the amount of fizz in the Dr. Pibb made them if not friends, at least people who knew something about each other. That was how things worked there, - people knew you - or they didn’t . It was something I could never properly get used to- that people knew of me and around me, but seemed to look right thru me on a daily basis.
+ 
+Not used to it. But OK with it.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+I had never really touched another person before the re-enactments. Touching my mother was different- that was a part of my being because I had to do for her in every way. She lost mobility to help herself when I was about 10, and being a beanpole of a child helped- I could reach all the way across the country of her flesh to clean her.
+ 
+ In many ways I was an adult before I was a child, in that same way you see children who dance on television. Their responses, while rehearsed carefully over and over seem as though they are awkwardly stuck on, a skin suit that doesn’t quite fit and somehow makes the fine movements of children grosser and less able.
+ 
+ Chapter The Second
+ 
+ 
+The Eighth Texas Calvary had had it’s finest moment  in Bardstown in 1862 . Nothing else of note had happened in Bardstown, with the exception of my birth in the intervening 210 years.
+ 
+Since that was the amount of battles the fine men led by General John Wharton, I thought perhaps it was a sign, especially for me. In 1977, it seemed that I was destined to be part of the pageant; the parade I felt was always passing by just out of earshot, just out of reach.
+ 
+I dreamed of being one of the soldiers, musket strapped  to my back and the sound of the minie balls in  air, whistling. It was the the thing I heard the most of when my daydreams led me far from Ms. Barton’s geometry class.
+ 
+ 
+ 
+As you passed the Quality Inn on the south side of town , near Delaney's Store on 31E on the way to Nazareth-you could hear the ghost feet sometimes. At least that is what I convinced myself of when I dressed myself in the replica  clothes that Lotte Boule had made for me on her off time. In some ways she was more mother to me than my mother, actually paying attention to what I might need as a human being. She will always be my first love for that. The clothes were made of reworked carhartts and some pieces she had found in my Grampa’s attic.
+ 
+Grampa   died when I was 10. That sucked. He was a man of few words and even fewer ideas. I had gone into his bedroom and sat down next to him as he lay in bed. He was the only man who ever spent time in the house besides me. He had that scent of old that still can frighten me if I catch a whiff of it-it carried decay into my nostrils and up to my childish brain. It made a picture in my head of hospital beds and  moss grown gravestones. He just looked at me for the longest moment ever- stretching it like toffee made of ashes. Then he was gone.
+ 
+ 
+
+
+
+
+The bayonet I carried was in less than perfect condition- it was obvious that it had had some parts broken off and that an unskilled hand had put it back together. It had a long thin barrel of some marled wood with a thin groove that ran along the top- that was the blood drain . The knife portion had been wired back on, one of the original screws missing . The wire was wrapped in some kind of rope that had been metalized, and it made the knife point off to the side instead of smoothly towards the enemy. 
+
+ 
+ The piercing of the enemy at a short range- the need to look into the eyes of another being as you took it’s life- I wondered. Because life at that time didn’t seem to me to be a thing worth keeping, and I wondered if those who had it removed via that gun welcomed it as a chance to hand a gift to an enemy.
+ 
+But I did believe in being prepared, nonetheless. So I marched with a broomstick in the boots I got from Papa in the backyard, as many times as I could, back and forth, forth and back.
+ 
+So when I started the first, the very first battle of my career my hands and feet were callused already. I wanted to make a good impression on Rex- I knew that he was the holder of the weapons, holder of the grace. Keeper of all that meant so much to 15 year old me. I thought that if I could impress him with my marching there would be finally a moment and place where I fit in the world- a spot where it didn't feel too big or too small.
+ 
+A place where I was something other than the sum of being a mistake made by two lonely people, one disappearing and one staying here but imploding slowly, like a leaf off a tree.
+ 
+I did not know that these thoughts were  no more special or different from other people - I did know that it was my moment to shine. So I squared my shoulders and tucked the wooden gun over the thin bony right one . It’s twin was pulled back in a vain attempt to make my chest appear larger than it was. Sadly, this was not a strategy that worked, and the guy who stood next to me asked me if I was feeling OK.
+ 
+ 
+They talk about flashbulb memory, and I see these things from that day
+ 
+Flash: Lines of men, all in similarly itchy clothing, pulling flasks from their pockets and shifting from foot to foot. The lines they stood in were not in between any other lines.
+ 
+Flash: The kentucky sunlight, flat, hard and unusually strong for that time of year. Late fall should have  softened it like soaking bourbon mash, but for some reason did not.
+ 
+Flash: Lotte Boule on the sideline, her kerchief hiding the fading blonde of her hair, but not the broad spread of her middle aged bosom.  She was enamored of Rex, hence her desire for my participation. Rex owned the auto body shop on the outskirts of town, and was the closest you could come to an Eligible Bachelor in Bardstown. Lotte had dreams too, although she did not share them often.
+ 
+ 
+Flash: Mam sitting next to her, tilted. It rent my heart that she could never seem to sit up straight, but this time was supposed to be my moment to make her proud. Also, even though the entire town knew who I was and how we lived- I had to pretend not to be known while I did this. It made me someone else.
+ 
+Someone who could be worthy of the bayonet. I hoped that if I did a good enough job that Rex would let me keep it in my room at least. In preparation for this, I had pounded two pegs into the wall above my bed, hopefully the place where it would rest when not clutched in my bony hands.
+ 
+ 
+Flash: the blue line of men on the other side of the field, their lines straighter than mine.Their faces looked shiny and fleshy with sweat. Somehow the color was darker in the sun- the hard light should have washed it out, but made it deeper.
+ 
+ 
+I could see Gerard D’Amboux on the other side- he was in my Geometry class, and sometimes I stared at him, not sure what I was looking for. Was it me wanting to be him? Was it me being in love with him? At 15, I did not have words for all the feelings I had for a similar person. All I knew was that if he looked back I immediately pulled my face back in on itself, hoping not to be seen.
+ 
+But this was what Lotte had forced me out here for- to be seen, to touch someone other than Mam.
+ 
+So we marched, and started to re- enact the battle, which mostly had consisted of General Wharton’s men , 66 of which had died during this battle , throwing themselves at the artillery with reckless abandon. While they had expired, they had also  gained ground. That seemed to be the only  correct measurements to me- the trading of a breath for some footage of ground. Never having been out of Bardstown made this arithmetic reasonable to me. So even though I really didn’t know what i was doing, I threw every ounce of my adolescent body into it, shouting a tenor war cry that harmonized well with the rest of teh baritones. the heat of the bodies around me, the stench of sweat, the knowledge that this was my moment all pulledt ogether until that moment- when I tripped. And fell. And took down 5 other re- enactors with me.....
+
+When I got up- the bayonet was broken. And it was stuck in me somehow . The haze of other people was around me- I didn’t know how or why it was all happening, just that i was both catylyst and stop sign in something that had never happened before.
+
+
+The tangle of limbs and sweat and sharp edges was making me want to climb out of my skin- no place seemed up or down and  the sounds of the men milling around us disoriented me even more. 
+
+When the smoke cleared , Cully Northland and Foster Williams both had parts of them entangled with parts of me. They were both from the other side of town, where nothing was held together by string. They stood, one long and lean and blonde and the other stocky and dark of face. I was in a prone position, my hands and knees scraped and the bayonet underneath my half turned body .
+
+ The combination of embarassment and mortification were almost too much to bear, but I could hear Gramps voice in my ear- “ Get up you little fucker!- don’t let them see you down.....” 
+
+The original battle was one where they were outnumbered 4 to one and they had succeeded by a strategic departure to Perryville. I wished more than anything to be in Perryville. It was about 5 miles distant. 
+
+But Mam and Lotte were  right there- they would know of my shame. 
+
+
+I looked up and caught Mam’s eye. She looked worried, but proud. In some perverse way, I knew that was the only thing that I was really looking for, some place to let me shine in those eyes that were reflected by her spectacles. That one moment where I was not perfect- but still loved.
+
+I picked myself up and dusted myself off. I picked up both of the pieces of the bayonet and marched my way through the rest of that sweaty, dry day. Everything hurt, but at least my shame was covered by the whoops and hollers of the other men around me. I even forgot myself so much as to whoop along with them 
+
+After the re- enactment I sat down on the dry grass next to Mama and Lotte. The bayonet sat next to me, mournful in it’s destruction. They had set up a picnic on the patchwork quilt that Mam’s mam had made 20 years before. Lotte patted my hand and smiled. 
+
+Rex came and sat down with us, eyeing the bowl of cold fried chicken as much as he was eying Lotte. His moustache was truly munificent, catching the last beams of the sun. At that moment I wished the quilt could cover me . I studied the pattern with a ferocity that should have burned holes in it. My face was red and felt as though it would peel off my skull. 
+
+“Miss Lotte, thank you so much for the invitation to dinner. Lucinda, Jack-” he nodded at us, confirming that he was there for us as well. His hair had cut itself free of it’s brylcreem and hung in dashing swoops . 
+
+
+Lotte chattered at him, making sure his bowl was fulll. Filling my hands with food I hung my head, awaiting the moment when Rex would chide me for my bayonet destruction. 
+
+“Jack- ya’ll broke that bayonet dintcha? “ 
+
+“yessir”
+
+“Ya’ll should come by the shop- we can fix that”. 
+
+
+That was the moment that I knew life would be worth living after all. </Text>
+        </Document>
+        <Document ID="23">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="28">
+            <Title>Short Story Format</Title>
+            <Text>SHORT STORY MANUSCRIPT FORMAT
+
+About This Template
+When compiled (File > Compile), this project will generate a document in the standard manuscript format for short story submissions.
+
+How To Use This Template
+	•	Edit the First Page Header document to ensure it contains the correct information. The text in this document will appear at the top of the first page of the compiled story manuscript.
+	•	Create a new text document for each scene inside the Story folder. (Upon export, scenes will automatically be separated by the “#” character.) Alternatively, you can write your entire story in a single text document if you prefer (in which case you will need to add the “#” character between the scenes in your document yourself).
+	•	Information about characters can be placed in the “Characters” folder, and information about locations can be placed in the “Places” folder. (These are just regular folders that have had custom icons assigned to them using the Documents > Change Icon feature.)
+	•	Character and setting sketch sheets have been provided which can be used for filling out information about the people and places in your novel. These are located in the “Template Sheets” folder. You should not edit the documents in the “Template Sheets” folder directly unless you wish to change the templates (which you are free to do - you may wish to customise the sketch sheets or get rid of them entirely). Instead, to create a new character sheet, click on the Characters folder (or wherever you want to create your new character sheet) and from the Project menu, select New From Template > Character Sketch. This creates a new character sketch document for you to edit and fill in with your character details. You can create setting sketch sheets in the same way. Alternatively, you can just click “Add”, or hit cmd-N, with the Characters or Places folders selected.
+	•	Compile your manuscript into standard short story manuscript format by selecting File > Compile.
+
+Making Changes
+You may wish to change the following:
+	•	Page header: You can edit the page header in the “Page Settings” pane of the Compile sheet.
+	•	Font: You can use “Quick Font Override” in Compile to change the font used throughout the final document.
+	•	Making your own special folders: The “Characters” and “Places” folders are really just regular folders that have been set up in a particular way, and you are free to create other folders that work in a similar manner.
+	1.	To create a folder with a custom icon, add a new folder, place it where you want it, ensure it is selected, and then go to Documents > Change Icon to choose a different icon.
+	2.	To create your own template sheets, simply create a new document inside the “Template Sheets” folder and set it up however you want (whether by adding text, changing the title, setting default meta-data, or whatever). Now this document will be available as the basis of new documents from the New From Template menu. (You can add a custom icon to this if you so wish, too.)
+	3.	To set things up so that when the special folder created in (1) is selected and you hit “Add”, a new document based on the one you set up in (2) is created, select the folder and go to Documents > Default New Subdocument Type and select the special template document you created.
+
+Sample Document
+See the “Sample Story MS” PDF file in the Research folder for an example of a document that has been created using this template.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template, and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File > Save As Template.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
